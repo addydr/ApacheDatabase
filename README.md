@@ -1,5 +1,5 @@
 # ApacheDatabase
-COP4710: Theory and Structures of Databases Final Project
+FSU COP4710: Theory and Structures of Databases Final Project with Dr. Karen Works
 
 <h2>Description</h2>
 This project performs CRUD operations on a MySQL database through an Apache server. With PHP and HTML on the server side, and SQL to handle database interactions, the user can search for and create, update, and delete camera bodies in the Camera database through the web interface. The Camera database is normalized to prevent anomalies and complexities. 
