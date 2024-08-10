@@ -24,19 +24,19 @@ This project performs CRUD operations on a MySQL database through an Apache serv
 
 <p align="center">
 With a local Apache server, launch the utility, and select the database: <br/>
-<img src="(https://imgur.com/a/O80WpTr)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Y0To6De.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Search for a camera body. Here I searched for names like 'n':  <br/>
-<img src="https://imgur.com/a/rucWyXd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Search for a camera body. Here, I searched for names like 'n':  <br/>
+<img src="https://i.imgur.com/OErn4ZA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select 'Add Camera' and add a new record to the database: <br/>
-<img src="https://imgur.com/a/KddOs4M" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ebYaI5Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select View on the Cameras page to see the new entry to update or delete:  <br/>
-<img src="https://imgur.com/a/sm89adC" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2mNTNZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
